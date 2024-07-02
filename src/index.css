@@ -131,6 +131,10 @@ body {
 	text-rendering: auto;
 }
 
+.swiper-slide {
+	user-select: none;
+}
+
 .autoplay-progress {
 	position: absolute;
 	right: 10px;
