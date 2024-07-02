@@ -21,7 +21,7 @@ export default function Preview() {
 			<div className={styles.image}>
 				<Swiper
 					modules={[Navigation, Autoplay]}
-					navigation={true}
+					navigation
 					autoplay={{
 						delay: 2500,
 						disableOnInteraction: false,
