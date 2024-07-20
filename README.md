@@ -17,8 +17,8 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - React
-- Vite
 - Swiper
+- Vite
 - Mobile-first workflow
 
 ## Author
